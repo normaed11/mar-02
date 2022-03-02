@@ -1,1 +1,16 @@
-{"product":"test","review":"test","username":"Test","review_id":"b2ef"}
+{
+    "review": [
+        {
+            "product": "ipad",
+            "review": "durable",
+            "username": "normaed",
+            "review_id": "88f5"
+        },
+        {
+            "product": "iphone",
+            "review": "durable",
+            "username": "normaed",
+            "review_id": "2361"
+        }
+    ]
+}
